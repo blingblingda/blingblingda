@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on creating **a business homepage for a friend**
  
- 🌱 I’m currently learning **TypeScript, Bootstrap**
+ 🌱 I’m currently learning **TypeScript, Bootstrap, AWS**
 
 💬 Ask me about **React, TypeScript, Node.js... [here](https://github.com/blingblingda/blingblingda/issues)**
 
