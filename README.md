@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on creating **a business homepage for a friend**
+ 🔭 I’m currently working on building **an eCommerce Website**
  
  🌱 I’m currently learning **TypeScript, Bootstrap, AWS**
 
 💬 Ask me about **React, TypeScript, Node.js... [here](https://github.com/blingblingda/blingblingda/issues)**
 
-⚡ Fun fact **The original name for the search engine Google was "Backrub".**
+⚡ Fun fact about me **I trained my cats to use the toilet**
 
  </div>
  
